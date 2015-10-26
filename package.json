@@ -1,0 +1,24 @@
+{
+  "name": "wallaby-typescript-browserify",
+  "version": "1.0.0",
+  "description": "Wallaby.js + TypeScript + Browserify sample",
+  "main": "wallaby.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallabyjs/wallaby-typescript-browserify.git"
+  },
+  "author": "Artem Govorov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallabyjs/wallaby-typescript-browserify/issues"
+  },
+  "homepage": "https://github.com/wallabyjs/wallaby-typescript-browserify#readme",
+  "devDependencies": {
+    "browserify": "^11.2.0",
+    "chai": "^3.4.0",
+    "wallabify": "0.0.10"
+  }
+}
