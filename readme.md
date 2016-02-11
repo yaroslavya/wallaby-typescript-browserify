@@ -1,7 +1,3 @@
 # Wallaby.js with TypeScript + Browserify sample
 
-## Install
-
-```
-npm install
-```
+## Just a fork of the project to reproduce how wallaby can handle the long paths.
