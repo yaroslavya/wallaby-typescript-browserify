@@ -13,7 +13,8 @@ module.exports = function () {
     files: [
       {pattern: 'app/spec.setup.ts', load: false, instrument: false},
       {pattern: 'app/src/**/*.ts', load: false},
-      {pattern: 'app/src/**/*.spec.ts', ignore: true}
+      {pattern: 'app/src/**/*.spec.ts', ignore: true},
+      {pattern: 'app/tests/**/*.ts', load: false}
     ],
 
     tests: [
